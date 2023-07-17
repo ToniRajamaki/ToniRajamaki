@@ -2,26 +2,21 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ToniRajamaki/ToniRajamaki/main/logo.svg" width="400" height="100">
+  
 </p>	
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&pause=500&color=9251F7&center=true&width=435&lines=Engineer;Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  </a>
+</div>
+
+
 <img src="https://raw.githubusercontent.com/ToniRajamaki/ToniRajamaki/main/waves.svg" width="100%" height="150">
 
 <!-- <img src="./waves.svg" width="100%" height="150"> -->
 
-<style>
-  /* Custom CSS */
-  div[style^="background: linear-gradient(135deg, #516CF7, #9251F7)"] {
-    background: linear-gradient(135deg, #516CF7, #9251F7);
-    padding: 20px;
-    border-radius: 8px;
-    color: white;
-  }
-  div[style^="background: linear-gradient(135deg, #516CF7, #9251F7)"] h2 {
-    font-size: 24px;
-    font-weight: bold;
-    color: white;
-    border-bottom: 1px solid white;
-  }
-</style>
+
 
 
 <h1 align="center">Hi 👋, I'm Toni</h1>
@@ -29,16 +24,11 @@
 <h3 align="center">A Software Engineer with passion for UI/UX Design</h3>
 <br>
 <div style="background: linear-gradient(135deg, #516CF7, #9251F7); padding: 20px; border-radius: 8px; color: white;">
-  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">About me</h2>
+  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">⚡️About me</h2>
   <p>Hey there! I'm a curious learner who enjoys the thrill of discovering new things. I'm on the lookout for fresh challenges and an environment that values personal growth. With a passion for UI/UX design and coding, I'm eager to bring innovation and creativity to the table.</p>
 </div>
 
 
-
-<div style="background: linear-gradient(135deg, #516CF7, #9251F7); padding: 20px; border-radius: 8px; color: white;">
-  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">About me</h2>
-  <p>Hey there! I'm a curious learner who enjoys the thrill of discovering new things. I'm on the lookout for fresh challenges and an environment that values personal growth. With a passion for UI/UX design and coding, I'm eager to bring innovation and creativity to the table.</p>
-</div>
 
 
 
@@ -46,9 +36,9 @@
 <br>
 
 <div style="background: linear-gradient(135deg, #516CF7, #9251F7); padding: 20px; border-radius: 8px; color: white;">
-  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">Technologies</h2>
+  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">👨🏻‍💻Technologies</h2>
  
-<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">Front-end</p>
+<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">🖥️Front-end</p>
 <p>
  <!-- React -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -86,7 +76,7 @@
 
 
 
-<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">Back-end</p>
+<p style="font-weight: bold; color: #f;  padding-bottom: 4px;">⚙️Back-end</p>
 <p>
 <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -123,7 +113,7 @@
 </p>
 
 
-<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">ML & AI</p>
+<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">🤖ML & AI</p>
 
 
   <!-- Python -->
@@ -155,7 +145,7 @@
 <br>
 <br>
 
-<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">Tools</p>
+<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">🛠Tools</p>
 <p align="left">
  
   
@@ -198,7 +188,7 @@
 
 <br>
 <br>
-<p><strong>Connect with me:</strong></p>
+<p><strong>🤝Connect with me:</strong></p>
 <p align="left">
 <a href="https://linkedin.com/in/toni-rajamäki-025055283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toni-rajamäki-025055283" height="30" width="40" /></a>
 </p>
