@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ToniRajamaki/ToniRajamaki/main/logo.svg" width="400" height="100">
- <p align="center"><span  style="color:#516cf7;><strong><span style="font-size:11px"><span style="font-family:Courier New,Courier,monospace">A Software Engineer with passion for UI/UX</span></span></strong></span></p>
 
 </p>	
 
