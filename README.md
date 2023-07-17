@@ -7,7 +7,21 @@
 
 <!-- <img src="./waves.svg" width="100%" height="150"> -->
 
-
+<style>
+  /* Custom CSS */
+  div[style^="background: linear-gradient(135deg, #516CF7, #9251F7)"] {
+    background: linear-gradient(135deg, #516CF7, #9251F7);
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+  }
+  div[style^="background: linear-gradient(135deg, #516CF7, #9251F7)"] h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    border-bottom: 1px solid white;
+  }
+</style>
 
 
 <h1 align="center">Hi 👋, I'm Toni</h1>
@@ -26,21 +40,7 @@
   <p>Hey there! I'm a curious learner who enjoys the thrill of discovering new things. I'm on the lookout for fresh challenges and an environment that values personal growth. With a passion for UI/UX design and coding, I'm eager to bring innovation and creativity to the table.</p>
 </div>
 
-<style>
-  /* Custom CSS */
-  div[style^="background: linear-gradient(135deg, #516CF7, #9251F7)"] {
-    background: linear-gradient(135deg, #516CF7, #9251F7);
-    padding: 20px;
-    border-radius: 8px;
-    color: white;
-  }
-  div[style^="background: linear-gradient(135deg, #516CF7, #9251F7)"] h2 {
-    font-size: 24px;
-    font-weight: bold;
-    color: white;
-    border-bottom: 1px solid white;
-  }
-</style>
+
 
 
 <br>
