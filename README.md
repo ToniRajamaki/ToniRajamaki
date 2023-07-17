@@ -1,11 +1,30 @@
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ToniRajamaki/ToniRajamaki/main/logo.svg" width="400" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/ToniRajamaki/ToniRajamaki/main/waves.svg" width="100%" height="150">
+
+<!-- <img src="./waves.svg" width="100%" height="150"> -->
+
+
+
+
 <h1 align="center">Hi 👋, I'm Toni</h1>
+
 <h3 align="center">A Software Engineer with passion for UI/UX Design</h3>
 <br>
-<p><strong>About me</strong></p>
-<p>Hey there! I'm a curious learner who enjoys the thrill of discovering new things. I'm on the lookout for fresh challenges and an environment that values personal growth. With a passion for UI/UX design and coding, I'm eager to bring innovation and creativity to the table.</p>
+<div style="background: linear-gradient(135deg, #516CF7, #9251F7); padding: 20px; border-radius: 8px; color: white;">
+  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">About me</h2>
+  <p>Hey there! I'm a curious learner who enjoys the thrill of discovering new things. I'm on the lookout for fresh challenges and an environment that values personal growth. With a passion for UI/UX design and coding, I'm eager to bring innovation and creativity to the table.</p>
+</div>
+
 <br>
 
-<p><strong>Front-end</strong></p>
+<div style="background: linear-gradient(135deg, #516CF7, #9251F7); padding: 20px; border-radius: 8px; color: white;">
+  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">Technologies</h2>
+ 
+<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">Front-end</p>
 <p>
  <!-- React -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -41,7 +60,9 @@
   </a>
 </p>
 
-<p><strong>Back-end</strong></p>
+
+
+<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">Back-end</p>
 <p>
 <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -77,21 +98,23 @@
   </a>
 </p>
 
-<p><strong>ML & AI</strong></p>
-<p>
+
+<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">ML & AI</p>
+
+
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <!-- OpenCV -->
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
   <!-- TensorFlow -->
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-   <!-- Pandas -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
@@ -100,13 +123,15 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
   <!-- Scikit-Learn -->
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a>
-<p>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
 
 
-<p><strong>Tools</strong></p>
+<br>
+<br>
+
+<p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">Tools</p>
 <p align="left">
  
   
@@ -145,7 +170,7 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
 </a>
 
-
+</div>
 
 <br>
 <br>
@@ -156,7 +181,46 @@
 <br>
 <br>
 
+
+
+
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonirajamaki&show_icons=true&locale=en&layout=compact" alt="tonirajamaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonirajamaki&" alt="tonirajamaki" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
