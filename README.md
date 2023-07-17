@@ -2,14 +2,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ToniRajamaki/ToniRajamaki/main/logo.svg" width="400" height="100">
-  
-</p>	
+ <p align="center"><span  style="color:#516cf7;><strong><span style="font-size:11px"><span style="font-family:Courier New,Courier,monospace">A Software Engineer with passion for UI/UX</span></span></strong></span></p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1600&pause=500&color=9251F7&center=true&width=435&lines=Engineer;Developer;UI%2FUX+Designer" alt="Typing SVG" />
-  </a>
-</div>
+</p>	
 
 
 <img src="https://raw.githubusercontent.com/ToniRajamaki/ToniRajamaki/main/waves.svg" width="100%" height="150">
@@ -18,10 +13,15 @@
 
 
 
+<br>
+<div align="center">
+  <div align="center"></div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=24&duration=1600&pause=500&color=9251F7&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;This+is+Toni+%F0%9F%98%81;Nice+to+meet+you+%F0%9F%92%9C" alt="Typing SVG" /></a>
+</div>
+</div>
 
-<h1 align="center">Hi 👋, I'm Toni</h1>
 
-<h3 align="center">A Software Engineer with passion for UI/UX Design</h3>
+
 <br>
 <div style="background: linear-gradient(135deg, #516CF7, #9251F7); padding: 20px; border-radius: 8px; color: white;">
   <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">⚡️About me</h2>
