@@ -34,7 +34,7 @@
     <a href="https://tonirajamaki.github.io/folio2/" target="_blank" style="color: #FFD700; font-weight: bold; text-decoration: underline;">🔗 Check out my portfolio!</a>
   </p>
   <p>
-<a href="https://tonirajamaki.github.io/folio2/#home" target="_blank"><img src="https://github.com/ToniRajamaki/assets/blob/main/portfolio-thumbnail.png?raw=true" alt="Moto Rental Thumbnail" height="200"></a>
+<a href="https://tonirajamaki.github.io/folio2/#home" target="_blank"><img src="https://github.com/ToniRajamaki/assets/blob/main/portfolio-thumbnail.png?raw=true" alt="Moto Rental Thumbnail" height="400"></a>
   </p>
 </div>
 </div>
