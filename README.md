@@ -26,9 +26,19 @@
     Currently focused on developing my skills in Frontend and UI/UX design. I try to learn something new every day, and I love transforming ideas into beautiful, functional designs.
   </p>
   <p style="text-align: center;">
+  </p>
+  <br>
+<div align="center">
+    
+  <p>
     <a href="https://tonirajamaki.github.io/folio2/" target="_blank" style="color: #FFD700; font-weight: bold; text-decoration: underline;">🔗 Check out my portfolio!</a>
   </p>
+  <p>
+<a href="https://tonirajamaki.github.io/folio2/#home" target="_blank"><img src="https://github.com/ToniRajamaki/assets/blob/main/portfolio-thumbnail.png?raw=true" alt="Moto Rental Thumbnail" height="200"></a>
+  </p>
 </div>
+</div>
+
 
 <br>
 <div style="background: linear-gradient(135deg, #516CF7, #9251F7); padding: 20px; border-radius: 8px; color: white;">
