@@ -15,8 +15,19 @@
 
 <br>
 <div style="background: linear-gradient(135deg, #516CF7, #9251F7); padding: 20px; border-radius: 8px; color: white;">
-  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">⚡️About me</h2>
-  <p>Hey there! I'm a curious learner who enjoys the thrill of discovering new things. I'm on the lookout for fresh challenges and an environment that values personal growth. With a passion for UI/UX design and coding, I'm eager to bring innovation and creativity to the table.</p>
+  <h2 style="font-size: 24px; font-weight: bold; color: white; border-bottom: 1px solid white;">⚡️About Me</h2>
+ <p align="center">
+    <img src="https://img.shields.io/badge/Life%20Long%20Learning-%F0%9F%93%9A-brightgreen?style=for-the-badge" alt="life long learning badge" />
+    <img src="https://img.shields.io/badge/Growth%20Mindset-%F0%9F%8C%B1-blue?style=for-the-badge" alt="growth mindset badge" />
+    <img src="https://img.shields.io/badge/Aspiring%20Unicorn-%F0%9F%A6%84-purple?style=for-the-badge" alt="aspiring unicorn badge" />
+   
+  </p>
+  <p style="text-align: center; font-size: 18px; line-height: 1.6;">
+    Currently focused on developing my skills in Frontend and UI/UX design. I try to learn something new every day, and I love transforming ideas into beautiful, functional designs.
+  </p>
+  <p style="text-align: center;">
+    <a href="https://tonirajamaki.github.io/folio2/" target="_blank" style="color: #FFD700; font-weight: bold; text-decoration: underline;">🔗 Check out my portfolio!</a>
+  </p>
 </div>
 
 <br>
@@ -80,8 +91,6 @@
   </a>
 </p>
 
-<br>
-
 <p style="font-weight: bold; color: #f; text-decoration: underline; padding-bottom: 4px;">🛠Tools</p>
 <p align="left">
   <!-- Figma -->
@@ -127,18 +136,14 @@
 <p><strong>🤝Connect with me:</strong></p>
 
 <p align="left">
-<a href="https://linkedin.com/in/toni-rajam%C3%A4ki-025055283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toni-rajamäki-025055283" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/toni-rajam%C3%A4ki-025055283" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin badge" />
+</a>
 </p>
 <br>
 <br>
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonirajamaki&show_icons=true&locale=en&layout=compact" alt="tonirajamaki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonirajamaki&" alt="tonirajamaki" /></p>
 </div>
-<p><strong>🤝Connect with me:</strong></p>
-[![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff)](#)
