@@ -23,7 +23,7 @@
    
   </p>
   <p style="text-align: center; font-size: 18px; line-height: 1.6;">
-    Currently focused on developing my skills in Frontend and UI/UX design. I try to learn something new every day, and I love transforming ideas into beautiful, functional designs.
+    Currently focused on developing my skills in Frontend and UI/UX design. I try to learn something new every day.
   </p>
   <p style="text-align: center;">
   </p>
