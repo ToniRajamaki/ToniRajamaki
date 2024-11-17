@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Aspiring%20Unicorn-%F0%9F%A6%84-purple?style=for-the-badge" alt="aspiring unicorn badge" />
    
   </p>
-  <p style="text-align: center; font-size: 18px; line-height: 1.6;">
+ <p align="center">
     Currently focused on developing my skills in Frontend and UI/UX design. I try to learn something new every day.
   </p>
   <p style="text-align: center;">
@@ -153,7 +153,11 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonirajamaki&show_icons=true&locale=en&layout=compact" alt="tonirajamaki" /></p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonirajamaki&" alt="tonirajamaki" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonirajamaki&show_icons=true&locale=en&layout=compact" alt="tonirajamaki" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonirajamaki&" alt="tonirajamaki" /></p>
+  
+
 </div>
